@@ -11,7 +11,7 @@
 - 💬 Ask me about **Laravel, PHP**
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100010599582437**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanyuaung&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanyuaung&show_icons=true&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
