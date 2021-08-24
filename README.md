@@ -18,15 +18,6 @@
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100010599582437**
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanyuaung16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanyuaung16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/san-yu-aung-357189188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-yu-aung-357189188" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100010599582437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010599582437" height="30" width="40" /></a>
-<a href="https://instagram.com/sanyuaung.ygn.mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyuaung.ygn.mm" height="30" width="40" /></a>
-<a href="https://discord.gg/#3917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3917" height="30" width="40" /></a>
-</p>
-<br>
 🤔 Looking for a job which would help me make most of my skills.
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1qOl-f5ooxUEJpUfiNW8k6wNPskjqapWP/view)*
@@ -43,4 +34,13 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Sanyuaung&show_icons=true&theme=merko&line_height=33">
    &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyuaung&hide_langs_below=.25&theme=merko">
+</p>
+
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sanyuaung16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanyuaung16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/san-yu-aung-357189188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="san-yu-aung-357189188" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100010599582437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010599582437" height="30" width="40" /></a>
+<a href="https://instagram.com/sanyuaung.ygn.mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyuaung.ygn.mm" height="30" width="40" /></a>
+<a href="https://discord.gg/#3917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3917" height="30" width="40" /></a>
 </p>
