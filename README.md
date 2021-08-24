@@ -41,7 +41,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <p align = "center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=Sanyuaung&show_icons=true&theme=merko&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyuaung&hide_langs_below=.25&theme=merko">
 </p>
