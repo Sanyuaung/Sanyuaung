@@ -28,29 +28,29 @@
 </p>
 
 ### :mortar_board: Graduating:
-<div id="Education" class="tabcontent"><ol><li><div>[2014 – 2018]</	div>
+<div id="Education" class="tabcontent"><ol><li><div>[2014 – 2018]</div>
 		<div>[Bachelor of Science - Chemistry]<div>
-		<div>[Yangon University of Distance Education]</div></li>
+		<div>[Yangon University of Distance Education]</div></li><br>
 	<li><div>[2015  – 2016]</div>
 		<div>[Certificate in Business Management]</div>
 		<div>[STI Myanmar University]</div>
-		<div>Grade achieved:	[B-]</div></li>
+		<div>Grade achieved:	[B-]</div></li><br>
 	<li><div>[1 April 2013 – 30 April 2013]</div>
 		<div>[Certificate of Basic Course]</div>
-		<div>[Paragon Computer Training Centre]</div></li>
+		<div>[Paragon Computer Training Centre]</div></li><br>
 	<li><div>[October 2016 – December 2016]</div>
 		<div<[Certificate of A+ Hardware Course]</div>
 		<div>[Certificate of Networking Course]</div>
-		<div>[Manawramma Gratis Monastery Educational Institute]</div></li>
+		<div>[Manawramma Gratis Monastery Educational Institute]</div></li><br>
 	<li><div>[March 2019 – July 2019]</div>
 		<div>[International Diploma in Business Administration]</div>
 		<div>[National Management Academy]</div>
-		<div>Grade achieved:	[Merit]</div></li>
+		<div>Grade achieved:	[Merit]</div></li><br>
 	<li><div>[Feb 2020 – Present]</div>
 		<div>[Diploma in Computer Science]</div>
 		<div>[University of Yangon, Department of Computer Studies]</div>
 		<div>[Web-Based Teaching System]</div></li>
-</ol></div>
+</ol></div><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
