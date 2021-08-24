@@ -27,7 +27,7 @@
 <a href="https://discord.gg/#3917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3917" height="30" width="40" /></a>
 </p>
 
-      🤔 Looking for a job which would help me make most of my skills.
+🤔 Looking for a job which would help me make most of my skills.
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1qOl-f5ooxUEJpUfiNW8k6wNPskjqapWP/view)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Sanyuaung/Sanyuaung/tree/main/Certificates)*
 <br />
