@@ -4,6 +4,8 @@
 
 ### Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+<hr style="width:50%;text-align:left;margin-left:0">
+
 <p align="left"> <a href="https://twitter.com/sanyuaung16" target="blank"><img src="https://img.shields.io/twitter/follow/sanyuaung16?logo=twitter&style=for-the-badge" alt="sanyuaung16" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Django**
