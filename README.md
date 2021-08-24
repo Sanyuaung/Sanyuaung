@@ -59,6 +59,8 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+### :bar_chart: working:
+
 <div id="Work Experience" class="tabcontent"><ol><li><div>[12.June.2018 – Present]</div>
 		<div>[Junior Bank Assistant]</div>
 		<div>[Card Production & Technical Support]</div>
