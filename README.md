@@ -42,8 +42,6 @@
 
 <p align = "center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
- <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=Sanyuaung&show_icons=true&theme=merko&line_height=33">
-  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyuaung&hide_langs_below=.25&theme=merko">
 </p>
