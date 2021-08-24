@@ -28,7 +28,7 @@
 </p>
 
 ### :mortar_board: Graduating:
-<div class="text-center" id="Education" class="tabcontent"><ol><li><div>[2014 – 2018]</div>
+<div id="Education" class="tabcontent text-right"><ol><li><div>[2014 – 2018]</div>
 		<div>[Bachelor of Science - Chemistry]<div>
 		<div>[Yangon University of Distance Education]</div></li><br>
 	<li><div>[2015  – 2016]</div>
