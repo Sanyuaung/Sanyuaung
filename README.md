@@ -59,13 +59,13 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-<div id="Work Experience" class="tabcontent"><ol><li><div>[12.June.2018 – Present]</div>
+<div id="Work Experience" class="tabcontent"><li><div>[12.June.2018 – Present]</div>
 		<div>[Junior Bank Assistant]</div>
 		<div>[Card Production & Technical Support]</div>
 		<div>[Myanmar Oriental Bank Limited, Yangon]</div>
 <div>[Dec 2016 – March 2018]</div>
 		<div>[Receptionist of Front Office Department]</div>
-	<div>[Diamond Lake Hotel]</div></ol>
+	<div>[Diamond Lake Hotel]</div></li>
 	
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
