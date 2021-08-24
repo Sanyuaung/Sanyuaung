@@ -1,7 +1,8 @@
 ![San Yu Aung  & Aye Hsu Naing](https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG)
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
 <h3 align="center">Web Developer and Languages Learning</h3>
-Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+### Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="left"> <a href="https://twitter.com/sanyuaung16" target="blank"><img src="https://img.shields.io/twitter/follow/sanyuaung16?logo=twitter&style=for-the-badge" alt="sanyuaung16" /></a> </p>
 
