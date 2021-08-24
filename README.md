@@ -1,4 +1,4 @@
-<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG" width="500" height="300">
+<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG" width="1000" height="500">
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
 <h3 align="center">Web Developer and Languages Learning</h3>
 
