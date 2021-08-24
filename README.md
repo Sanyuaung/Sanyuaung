@@ -1,4 +1,5 @@
 <img align="right" src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG" alt="WordCloud" width="50%"/>
+<br>
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
 <h3 align="center">Web Developer and Languages Learning</h3>
 
