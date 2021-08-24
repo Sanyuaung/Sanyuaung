@@ -1,5 +1,4 @@
-![San Yu Aung  & Aye Hsu Naing](https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG)
-<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG" alt="drawing" style="width:50px;"/>
 
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
 <h3 align="center">Web Developer and Languages Learning</h3>
