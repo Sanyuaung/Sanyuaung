@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
+- 🔭 I’m currently working on **Myanmar Oriental Bank**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Sanyuaung](https://github.com/Sanyuaung)
 
 - 💬 Ask me about **Laravel, PHP**
