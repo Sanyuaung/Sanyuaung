@@ -2,7 +2,7 @@
 <img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG20201122160226.jpg" width="50%">
 </pre> 
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
-<h3 align="center">Web Developer and Languages Learning</h3>
+<h3 align="center">Web Developer (Full Stack) and Languages Learning</h3>
 
 ### Welcome to My World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Myanmar Oriental Bank**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanyuaung?tab=repositories](https://github.com/Sanyuaung?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/Sanyuaung?tab=repositories)
 
 - 💬 Ask me about **Laravel, PHP**
 
@@ -21,6 +21,7 @@
 🤔 Looking for a job which would help me make most of my skills.
 
 &nbsp; &nbsp; *[View My CV](https://github.com/Sanyuaung/Sanyuaung)*
+&nbsp; &nbsp; *[View My Web Application Flow](https://github.com/Sanyuaung/Sanyuaung/blob/main/Web%20Application%20Flow.pptx)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Sanyuaung/Sanyuaung/tree/main/Certificates)*
 <br />
 
