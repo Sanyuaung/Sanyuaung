@@ -1,5 +1,5 @@
 <pre align="center">
-<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG_2004.JPG" alt="WordCloud" width="50%">
+<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/IMG20201122160226.jpg" width="50%">
 </pre> 
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
 <h3 align="center">Web Developer and Languages Learning</h3>
@@ -20,7 +20,7 @@
 
 🤔 Looking for a job which would help me make most of my skills.
 
-&nbsp; &nbsp; *[View My CV](https://github.com/Sanyuaung/Sanyuaung/blob/main/SANYUAUNG.docx)*
+&nbsp; &nbsp; *[View My CV](https://github.com/Sanyuaung/Sanyuaung)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Sanyuaung/Sanyuaung/tree/main/Certificates)*
 <br />
 
