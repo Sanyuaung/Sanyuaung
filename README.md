@@ -21,7 +21,7 @@
 🤔 Looking for a job which would help me make most of my skills.
 
 &nbsp; &nbsp; *[View My CV](https://github.com/Sanyuaung/Sanyuaung)*
-&nbsp; &nbsp; *[View My Web Application Flow](https://github.com/Sanyuaung/Sanyuaung/blob/main/Web%20Application%20Flow.pptx)*
+&nbsp; &nbsp; |  &nbsp; &nbsp;*[View My Web Application Flow](https://github.com/Sanyuaung/Sanyuaung/blob/main/Web%20Application%20Flow.pptx)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Sanyuaung/Sanyuaung/tree/main/Certificates)*
 <br />
 
