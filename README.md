@@ -19,10 +19,13 @@
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100010599582437**
 
 - 🤗 My Portfolio **https://sanyuaung.000webhostapp.com/**
+
+
 🤔 Looking for a job which would help me make most of my skills.
 
-&nbsp; &nbsp; *[View My CV](https://github.com/Sanyuaung/Sanyuaung)*
-&nbsp; &nbsp; |  &nbsp; &nbsp;*[View My Web Application Flow](https://github.com/Sanyuaung/Sanyuaung/blob/main/Web%20Application%20Flow.pptx)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1FGQb7rbz2ZFIVGeCHHMGxUhOHqkpjpbg/view?usp=share_link)*
+&nbsp; &nbsp; |  &nbsp; &nbsp;*[View My Web Application Video](https://drive.google.com/file/d/1lheczsI_V4KhodM5QSEadGr9fsqx-w3b/view?usp=share_link)*
+&nbsp; &nbsp; |  &nbsp; &nbsp;*[View My Web Application Flow](https://drive.google.com/file/d/1tJYc1gz8B7MVaOwCWmfjhi1_j6JMecSc/view?usp=share_link)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Sanyuaung/Sanyuaung/tree/main/Certificates)*
 <br />
 
