@@ -8,9 +8,9 @@
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Vue, Angular & Inginx**
 
-- 🔭 I’m currently working on **Myanmar Oriental Bank**
+- 🔭 I’m currently working on **Secret Code Co.,Ltd**
 
 - 👨‍💻 All of my projects are available at (https://github.com/Sanyuaung?tab=repositories)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100010599582437**
 
-- 🤗 My Portfolio **https://sanyuaung.000webhostapp.com/**
+- 🤗 My Portfolio **https://sanyuaung.vercel.app/**
 
 
 🤔 Looking for a job which would help me make most of my skills.
