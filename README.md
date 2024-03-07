@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue, Angular & Inginx**
 
-- 🔭 I’m currently working on **Secret Code Co.,Ltd**
+- 🔭 I’m currently working on **CHID Bank**
 
 - 👨‍💻 All of my projects are available at (https://github.com/Sanyuaung?tab=repositories)
 
