@@ -1,5 +1,5 @@
 <pre align="center">
-<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/3.jpg" width="50%">
+<img src="https://github.com/Sanyuaung/Sanyuaung/blob/main/1.jpg" width="50%">
 </pre> 
 <h1 align="center">Hi 👋, I'm San Yu Aung</h1>
 <h3 align="center">Web Developer (Full Stack) and Languages Learning</h3>
